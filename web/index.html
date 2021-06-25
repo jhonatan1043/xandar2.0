@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+    <title>SISlog</title>
+</head>
+
+<body>
+    <!----------------------- main container log in page ------------------------->
+    <section class="container">
+        <div class="tittle">
+            <h1>SISlog App</h1>
+            <p>Sistema Administración y Gestión Logística</p>
+        </div>
+
+        <div class="form">
+            <form action="">
+                <label for="User">Usuario</label> <br>
+                <div class="user">
+                    <img src="/img/user.svg" alt="user icon" class="icon">
+                    <input type="text" id="User" name="User" placeholder="SysLog" class="user" required> <br>
+                </div>
+
+                <label for="Password">Password</label> <br>
+                <div class="password-icono">
+                    <img src="/img/lock.svg" alt="password input" class="icon">
+                    <input type="password" id="Password" name="Password" class="password" placeholder="Password"
+                        required> <br>
+                    <img src="/img/eye.svg" alt="see password" class="icon">
+                </div>
+
+                <label for="Select">Empresa</label><br>
+                <select name="Empresa" id="Empresa" required>
+                    <option autofocus>--Seleccione--</option>
+                    <option value="Empresa1">Empresa1</option>
+                    <option value="Empresa2">Empresa2</option>
+                </select> <br>
+                <div class="boton">
+                    <input type="submit" value="Entrar" class="btn">
+                </div>
+
+            </form>
+        </div>
+
+    </section>
+
+</body>
+
+</html>
