@@ -47,8 +47,8 @@
     </div><a class="section section-banner d-none d-xl-block"
         href="https://www.templatemonster.com/intense-multipurpose-html-template.html" target="_blank"
         style="background-image: url(<?php echo base_url('assets/side/'); ?>images/background-02-1920x60.jpg); background-image: -webkit-image-set( url(<?php echo base_url('assets/side/'); ?>images/background-02-1920x60.jpg) 1x, url(<?php echo base_url('assets/side/'); ?>images/background-02-3840x120.jpg) 2x )"><img
-            src="<?php echo base_url('assets/side/'); ?>images/foreground-02-1600x60.png"
-            srcset="<?php echo base_url('assets/side/'); ?>images/foreground-02-1600x60.png 1x, <?php echo base_url('assets/side/'); ?>images/foreground-02-3200x120.png 2x"
+            src="<?php echo base_url('assets/side/'); ?>images/first-line-background.png"
+            srcset="<?php echo base_url('assets/side/'); ?>images/first-line-background.png 1x, <?php echo base_url('assets/side/'); ?>images/first-line-background-3200-120.png 2x"
             alt="" width="1600" height="310"></a>
     <div class="page">
         <header class="section page-header">
@@ -107,7 +107,7 @@
                                 <!--RD Navbar Brand-->
                                 <div class="rd-navbar-brand">
                                     <!--Brand--><a class="brand" href="index.html"><img class="brand-logo-dark"
-                                            src="<?php echo base_url('assets/side/'); ?>images/logo-default-200x34.png"
+                                            src="<?php echo base_url('assets/side/'); ?>images/xandar-icon.png"
                                             alt="" width="100" height="17" /><img class="brand-logo-light"
                                             src="<?php echo base_url('assets/side/'); ?>images/logo-inverse-200x34.png"
                                             alt="" width="100" height="17" /></a>
@@ -132,17 +132,18 @@
         </header>
         <!--Main section-->
         <section class="section main-section parallax-scene-js"
-            style="background:url('<?php echo base_url('assets/side/'); ?>images/bg-1-1700x803.jpg') no-repeat center center; background-size:cover;">
+            style="background:url('<?php echo base_url('assets/side/'); ?>images/background.jpg') no-repeat center center; background-size:cover;">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-8 col-12">
                         <div class="main-decorated-box text-center text-xl-left">
-                            <h1 class="text-white text-xl-center wow slideInRight" data-wow-delay=".3s"><span
-                                    class="align-top offset-top-30 d-inline-block font-weight-light prefix-text">the</span><span
-                                    class="big font-weight-bold d-inline-flex offset-right-170">best</span><span
-                                    class="biggest d-block d-xl-flex font-weight-bold">Solutions.</span></h1>
-                            <div class="decorated-subtitle text-italic text-white wow slideInLeft">Fresh Ideas for Your
-                                Business</div>
+                            <h1 class=" text-xl-center text-blue-xandar wow slideInRight" data-wow-delay=".3s"><span
+                                    class="align-top offset-top-30 d-inline-block font-weight-light prefix-text">la</span><span
+                                    class="big font-weight-bold d-inline-flex offset-right-170">mejor</span><span
+                                    class="biggest d-block d-xl-flex font-weight-bold">Solución.</span></h1>
+                            <div class="decorated-subtitle text-italic text-blue-xandar wow slideInLeft">en software de inventario                             
+                                
+                            </div>
                         </div>
                     </div>
                     <div class="col-12 text-center offset-top-75" data-wow-delay=".2s"><a
