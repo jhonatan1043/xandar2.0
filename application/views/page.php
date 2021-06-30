@@ -68,20 +68,20 @@
                                 <li>
                                     <div class="unit unit-spacing-xs align-items-center">
                                         <div class="unit-left"><span class="icon text-middle fa-phone"></span></div>
-                                        <div class="unit-body"><a href="tel:#">+1 800 123 45 67</a></div>
+                                        <div class="unit-body"><a href="tel:#">+57 302 436 06 57</a></div>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="unit unit-spacing-xs align-items-center">
                                         <div class="unit-left"><span class="icon text-middle fa-envelope"></span></div>
-                                        <div class="unit-body"><a href="mailto:#">info@demolink.org</a></div>
+                                        <div class="unit-body"><a href="mailto:#">soporte@xandar.com</a></div>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="unit unit-spacing-xs align-items-center">
                                         <div class="unit-left"><span class="icon text-middle fa-map-marker"></span>
                                         </div>
-                                        <div class="unit-body"><a href="#">2164 Wall St. New York, NY 10122</a></div>
+                                        <div class="unit-body"><a href="#">Calle 27b #10- 30 S/larga - Atlantico</a></div>
                                     </div>
                                 </li>
                             </ul>
@@ -107,7 +107,7 @@
                                 <!--RD Navbar Brand-->
                                 <div class="rd-navbar-brand">
                                     <!--Brand--><a class="brand" href="index.html"><img class="brand-logo-dark"
-                                            src="<?php echo base_url('assets/side/'); ?>images/xandar-icon.png"
+                                            src="<?php echo base_url('assets/'); ?>img/xandar-icon.png"
                                             alt="" width="100" height="17" /><img class="brand-logo-light"
                                             src="<?php echo base_url('assets/side/'); ?>images/logo-inverse-200x34.png"
                                             alt="" width="100" height="17" /></a>
@@ -116,9 +116,9 @@
                             <div class="rd-navbar-main-element">
                                 <div class="rd-navbar-nav-wrap">
                                     <ul class="rd-navbar-nav">
-                                        <li class="rd-nav-item active"><a class="rd-nav-link" href="/">Xandar</a>
+                                        <li class="rd-nav-item active"><a class="rd-nav-link" href="/">Ingresar</a>
                                         </li>
-                                        <li class="rd-nav-item"><a class="rd-nav-link" href="#">Ingresa</a>
+                                        <li class="rd-nav-item"><a class="rd-nav-link" href="#">Crear Cuenta</a>
                                         </li>
                                         <li class="rd-nav-item"><a class="rd-nav-link" href="#">Contacto</a>
                                         </li>
