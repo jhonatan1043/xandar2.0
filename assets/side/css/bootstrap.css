@@ -7897,7 +7897,10 @@ button.close {
 	color: #ffffff !important;
 }
 .text-blue-xandar {
-	color: #224e80 !important;
+	color: #1c4d82;
+}
+.background-blue-xandar {
+	background-color: #4293d0 !important;
 }
 
 .text-body {

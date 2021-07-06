@@ -98,7 +98,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="rd-navbar-main-outer">
+                    <div class="rd-navbar-main-outer background-blue-xandar">
                         <div class="rd-navbar-main">
                             <!--RD Navbar Panel-->
                             <div class="rd-navbar-panel">
@@ -138,13 +138,18 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-8 col-12">
                         <div class="main-decorated-box text-center text-xl-left">
-                            <h1 class=" text-xl-center text-blue-xandar wow slideInRight" data-wow-delay=".3s"><span
+                            <h1 class=" text-xl-center text-blue-xandar wow slideInRight"  data-wow-delay=".3s" ><span
                                     class="align-top offset-top-30 d-inline-block font-weight-light prefix-text">la</span><span
                                     class="big font-weight-bold d-inline-flex offset-right-170">mejor</span><span
                                     class="biggest d-block d-xl-flex font-weight-bold">Solución.</span></h1>
+<<<<<<< HEAD
                             <div class="decorated-subtitle text-italic text-blue-xandar wow slideInLeft">en software de
                                 inventario
 
+=======
+                            <div class="decorated-subtitle text-italic text-blue-xandar  wow slideInLeft">en software de inventario                             
+                                
+>>>>>>> 3ca83e6006d42b45824d9248188b455ede5332ea
                             </div>
                         </div>
                     </div>
