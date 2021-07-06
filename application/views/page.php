@@ -81,7 +81,8 @@
                                     <div class="unit unit-spacing-xs align-items-center">
                                         <div class="unit-left"><span class="icon text-middle fa-map-marker"></span>
                                         </div>
-                                        <div class="unit-body"><a href="#">Calle 27b #10- 30 S/larga - Atlantico</a></div>
+                                        <div class="unit-body"><a href="#">Calle 27b #10- 30 S/larga - Atlantico</a>
+                                        </div>
                                     </div>
                                 </li>
                             </ul>
@@ -107,8 +108,8 @@
                                 <!--RD Navbar Brand-->
                                 <div class="rd-navbar-brand">
                                     <!--Brand--><a class="brand" href="index.html"><img class="brand-logo-dark"
-                                            src="<?php echo base_url('assets/'); ?>img/xandar-icon.png"
-                                            alt="" width="100" height="17" /><img class="brand-logo-light"
+                                            src="<?php echo base_url('assets/'); ?>img/xandar-icon.png" alt=""
+                                            width="100" height="17" /><img class="brand-logo-light"
                                             src="<?php echo base_url('assets/side/'); ?>images/logo-inverse-200x34.png"
                                             alt="" width="100" height="17" /></a>
                                 </div>
@@ -141,8 +142,9 @@
                                     class="align-top offset-top-30 d-inline-block font-weight-light prefix-text">la</span><span
                                     class="big font-weight-bold d-inline-flex offset-right-170">mejor</span><span
                                     class="biggest d-block d-xl-flex font-weight-bold">Solución.</span></h1>
-                            <div class="decorated-subtitle text-italic text-blue-xandar wow slideInLeft">en software de inventario                             
-                                
+                            <div class="decorated-subtitle text-italic text-blue-xandar wow slideInLeft">en software de
+                                inventario
+
                             </div>
                         </div>
                     </div>
@@ -196,15 +198,15 @@
                 <div class="row row-30">
                     <div class="col-lg-6">
                         <div class="block-decorate-img wow fadeInLeft" data-wow-delay=".2s"><img
-                                src="<?php echo base_url('assets/side/'); ?>images/home-1-570x703.jpg" alt=""
-                                width="570" height="351" />
+                                src="<?php echo base_url('assets/'); ?>img/emprendedor.jpg" alt="" width="570"
+                                height="351" />
                         </div>
                     </div>
                     <div class="col-lg-6 col-12">
                         <div class="block-sm offset-top-45">
-                            <div class="section-name wow fadeInRight" data-wow-delay=".2s">About us</div>
-                            <h3 class="wow fadeInLeft text-capitalize devider-bottom" data-wow-delay=".3s">What We<span
-                                    class="text-primary"> Do</span></h3>
+                            <div class="section-name wow fadeInRight" data-wow-delay=".2s">Sobre Xandar</div>
+                            <h3 class="wow fadeInLeft text-capitalize devider-bottom" data-wow-delay=".3s">Que te<span
+                                    class="text-primary"> Ofrecemos</span></h3>
                             <p class="offset-xl-40 wow fadeInUp" data-wow-delay=".4s">Small or big, your business will
                                 love our financial help and business consultations! We are happy when our clients are
                                 too... Actually, this is quite simple to achieve - because each time we help them in
@@ -219,7 +221,7 @@
                     </div>
                 </div>
             </div>
-            <div class="decor-text decor-text-1">ABOUT</div>
+            <div class="decor-text decor-text-1">Acerca</div>
         </section>
         <!--Features-->
         <section class="section custom-section position-relative section-md">
