@@ -476,6 +476,7 @@ a[href*='tel'], a[href*='mailto'] {
 
 .block-decorate-img img {
 	box-shadow: 1px 5px 27px 0px rgba(0, 0, 0, 0.09);
+	
 }
 
 /*
